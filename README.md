@@ -7,7 +7,8 @@
 যেসকল টপিক এই টিউটোরিয়াল এ কাভার করা হবে তা হলোঃ 
 
   - [পাইথন ইন্সটল করা](https://github.com/jakariamd/Introduction-to-Python/tree/master/Python%20Installation)
-  - পাইথন বেসিক ডাটা টাইপ
+  - [পাইথন বেসিক ডাটা টাইপ](https://github.com/jakariamd/Introduction-to-Python/tree/master/Python%20Data%20Types)
   - পাইথন সিকোয়েন্স টাইপ 
   - বেসিক ফ্লো-কন্টোল 
+  - ফাংশনস 
   - এবং আরো অনেক কিছু 
