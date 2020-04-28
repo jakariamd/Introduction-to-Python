@@ -28,7 +28,7 @@
 
 ### ২। পাইথন IDLE ব্যবহার করা
 
-আরেকটি উপায় হলো পাইথন IDLE ব্যবহার করা। উইন্ডোজ start বাটন থেকে উথবা সার্চবার থেকে সার্চ করে  Python IDLE ওপেন করে নিলেই হলো। পাইথন IDLE ও Command Prompt ইন্টারফেস দেয় যেখানে যেকোনো পাইথন Command বা স্টেটমেন্ট এক্সিকিউট করা যায়। এখানে 2+2 অথবা a=5 টাইপ করে Enter করেই দেখ। 
+আরেকটি উপায় হলো পাইথন IDLE ব্যবহার করা। উইন্ডোজ start বাটন থেকে অথবা সার্চবার থেকে সার্চ করে  Python IDLE ওপেন করে নিলেই হলো। পাইথন IDLE ও Command Prompt ইন্টারফেস দেয় যেখানে যেকোনো পাইথন Command বা স্টেটমেন্ট এক্সিকিউট করা যায়। এখানে 2+2 অথবা a=5 টাইপ করে Enter করেই দেখ।  
 
 <p align="center">
   <img src="https://github.com/jakariamd/Introduction-to-Python/blob/master/Python%20Installation/Capture2.PNG" />
