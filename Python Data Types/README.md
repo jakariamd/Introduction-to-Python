@@ -46,7 +46,7 @@ Integer ছাড়া বাকি সব সংখ্যাই হচ্ছে F
  
  ## Strings 
  
- Numbers এর পাশাপাশি পাইথন letters, words বা sentences নিয়েও কাজ করতে পারে। এগুলোকে বলা হয় strings. Strings লিখার দুটি উপায়ঃ characters গুলিকে single quotes ('...') অথবা  double quotes ("...")  দিয়ে enclose করে দেওয়া।  যেমনঃ 
+ Numbers এর পাশাপাশি পাইথন letters, words বা sentences নিয়েও কাজ করতে পারে। এগুলোকে বলা হয় String. Strings প্রকাশ করার দুটি উপায়ঃ characters গুলিকে single quotes ('...') অথবা  double quotes ("...")  দিয়ে enclose করে দেওয়া।  যেমনঃ 
  
  ```
  >>> 'spam eggs'  
@@ -61,6 +61,8 @@ Strins কে চাইলেই যেকোনো ভেরিয়েবলে 
 'spam eggs'
 >>> print(str)
 spam eggs
+>>> type(str)
+<class 'str'>
 ```
 
 String এর আরো কয়েকটি উদাহরণ নিচে দেখানো হলঃ 
