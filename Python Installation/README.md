@@ -12,6 +12,13 @@
   <img src="https://github.com/jakariamd/Introduction-to-Python/blob/master/Python%20Installation/Capture.PNG" />
 </p>
 
+# Running Python
+
+পাইথন হচ্ছে Command Oriented ল্যাঙ্গুয়েজ, যেকোজ কাজকে এটা স্ক্রিপ্ট আকারে লিখে সেটা পাইথন Shell এ কমান্ড আকারে রান করে দিলেই হয়। আমি এখানে পাইথন রান করার দুইটি উপায় দেখাবো। 
+
+## ১। উইনডোজের Command Prompt থেকে পাইথন রান করা
+
+উইনডোজে মেশিনে পাইথন ইন্সটল করার পর উইনডোজের Command Prompt এ গিয়ে python লিখে দিলেই পাইথনের ইন্টারফেস পাওয়া যাবে। পাইথনের Command Prompt শুরু হয় তিনটি এঙ্গুলার সাইন >>> দিয়ে। এই Prompt এ যেকোনো আনুমোদিত পাইথন Command রান করা যায়। যেকোনো সাধারণ যোগ-বিয়োগ-গুন-ভাগ ও যেহেতু পাইথন কমান্ড, আমরা চাইলে সেগুলোও পাইথন Command Prompt  এ রান করতে পারি। যেমন আমি >>> এর পাশে 2+3  ক  
 
 <p align="center">
   <img src="https://github.com/jakariamd/Introduction-to-Python/blob/master/Python%20Installation/Capture2.PNG" />
