@@ -2,9 +2,9 @@
 
 পাইথনে তিনটি বেসিক ডাটা টাইপ আছে। 
 
-	- Integers (সংখ্যার জন্য ডিফল্ট ডাটা টাইপ)
-	- Floats 
-	- Strings 
+  - Integers (সংখ্যার জন্য ডিফল্ট ডাটা টাইপ)
+  - Floats 
+  - Strings 
   
   ## Integers
   
